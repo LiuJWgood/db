@@ -1,0 +1,3 @@
+com\itheima\search\service\IndexSearcherService.class
+com\itheima\search\service\findByPageQuery.class
+com\itheima\search\service\IndexWriterService.class

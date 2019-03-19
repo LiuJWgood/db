@@ -1,0 +1,3 @@
+com\itheima\page\util\JedisUtils.class
+com\itheima\page\service\PageKafkaConsumer.class
+com\itheima\page\service\SearchPageServiceImpl.class

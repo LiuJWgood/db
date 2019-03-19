@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+       http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd
+	   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+
+    <!-- 配置数据源 -->
+    <bean id = "dataSource" class="com.alibaba.druid.pool.DruidDataSource" destroy-method="close">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://192.168.12.141:3306/gossip?characterEncoding=utf-8"/>
+        <property name="username" value="root"/>
+        <property name="password" value="123456"/>
+    </bean>
+    <!-- 配置sqlsessionFactory -->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean" >
+        <property name="configLocation" value="classpath:sqlMapConfig.xml"></property>
+        <property name="dataSource" ref="dataSource"></property>
+        <!--用于加载mapper文件-->
+        <property name="mapperLocations" value="classpath:mapper/*"></property>
+    </bean>
+    <!--扫描mapper接口-->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="com.itheima.gossip.mapper"></property>
+    </bean>
+
+    <!--jedis创建-->
+    <bean name="poolConfig" class="redis.clients.jedis.JedisPoolConfig">
+        <property name="maxTotal" value="50"></property>
+        <property name="maxIdle" value="25"></property>
+        <property name="minIdle" value="5"></property>
+    </bean>
+    <bean name="jedisPool" class="redis.clients.jedis.JedisPool">
+
+        <constructor-arg name="poolConfig" ref="poolConfig"></constructor-arg>
+        <constructor-arg name="host" value="192.168.12.142"></constructor-arg>
+        <constructor-arg name = "port" value="6379"></constructor-arg>
+    </bean>
+
+    <!-- 引用dubbo 服务 -->
+    <dubbo:application name="search-web"/>
+    <dubbo:registry protocol="zookeeper" address="192.168.116.141:2181,192.168.116.142:2181,192.168.116.143:2181"/>
+    <dubbo:annotation package="com.itheima.gossip.service"/>
+
+</beans>
