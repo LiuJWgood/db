@@ -12,7 +12,7 @@ public class JedisUtils {
         config.setMaxTotal(100); //最大连接数
         config.setMaxIdle(50); //最大的闲时的数量
         config.setMinIdle(20);//最小的闲时的数量
-        jedisPool  = new JedisPool(config,"192.168.12.142",6379);
+        jedisPool  = new JedisPool(config,"192.168.233.142",6379);
     }
 
 

@@ -25,3 +25,8 @@
 0:0:0:0:0:0:0:1 - - [19/Mar/2019:13:32:57 +0800] "GET /css/images/spinner_arrows.png HTTP/1.1" 200 149 http-bio-9002-exec-6 2
 0:0:0:0:0:0:0:1 - - [19/Mar/2019:13:32:57 +0800] "GET /css/images/calendar_arrows.png HTTP/1.1" 200 173 http-bio-9002-exec-3 29
 0:0:0:0:0:0:0:1 - - [19/Mar/2019:13:33:00 +0800] "POST /ps.action HTTP/1.1" 200 67 http-bio-9002-exec-8 3107
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:05:05 +0800] "GET / HTTP/1.1" 200 567 http-bio-9002-exec-1 74
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:05:06 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9002-exec-3 4
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:05:19 +0800] "GET /list.html?keywords=sdfds HTTP/1.1" 200 16714 http-bio-9002-exec-4 4
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:05:19 +0800] "GET /js/search.js HTTP/1.1" 200 8279 http-bio-9002-exec-6 5
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:21:05:20 +0800] "POST /ps.action HTTP/1.1" 500 13449 http-bio-9002-exec-7 567

@@ -36,7 +36,7 @@
 
     <!-- 引用dubbo 服务 -->
     <dubbo:application name="search-web"/>
-    <dubbo:registry protocol="zookeeper" address="192.168.12.141:2181,192.168.12.142:2181,192.168.12.143:2181"/>
+    <dubbo:registry protocol="zookeeper" address="192.168.233.141:2181,192.168.233.142:2181,192.168.233.143:2181"/>
     <dubbo:annotation package="com.itheima.gossip.controller"/>
 
 

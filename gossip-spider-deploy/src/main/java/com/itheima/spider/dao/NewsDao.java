@@ -14,7 +14,7 @@ public class NewsDao extends JdbcTemplate {
 
         try {
             dataSource.setDriverClass("com.mysql.jdbc.Driver");
-            dataSource.setJdbcUrl("jdbc:mysql://192.168.12.141:3306/gossip?characterEncoding=utf-8");
+            dataSource.setJdbcUrl("jdbc:mysql://192.168.233.141:3306/gossip?characterEncoding=utf-8");
             dataSource.setUser("root");
             dataSource.setPassword("123456");
         } catch (PropertyVetoException e) {

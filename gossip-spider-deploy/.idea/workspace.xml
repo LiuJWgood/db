@@ -1,7 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eda3510a-dd87-4dfa-adff-900d3e5f009d" name="Default Changelist" comment="" />
+    <list default="true" id="2822eb30-fe10-4a27-aae4-46f78f5b1079" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/artifacts/gossip_searchPortal_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/artifacts/gossip_searchPortal_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/artifacts/search_page_service_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/artifacts/search_page_service_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/artifacts/search_service_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/artifacts/search_service_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__com_alibaba_dubbo_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__commons_io_commons_io_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_apache_solr_solr_solrj_4_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_1_3_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_17_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_test_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-pojo/gossip-pojo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-pojo/target/classes/META-INF/gossip-pojo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-pojo/target/classes/com/itheima/gossip/pojo/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-pojo/target/gossip-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-pojo/target/gossip-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/gossip-searchPortal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/src/main/resources/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/src/main/resources/springMVC.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/classes/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/classes/springMVC.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/classes/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/classes/springMVC.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/lib/gossip-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/lib/gossip-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/lib/search-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/lib/search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/lib/search-page-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/gossip-searchPortal-1.0-SNAPSHOT/WEB-INF/lib/search-page-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/tomcat/logs/access_log.2019-03-19" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/gossip-searchPortal/target/tomcat/logs/access_log.2019-03-19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-interface/search-interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-interface/target/search-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-interface/target/search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-interface/search-page-interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-interface/target/search-page-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-interface/target/search-page-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/search-page-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/src/main/java/com/itheima/page/util/JedisUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/src/main/java/com/itheima/page/util/JedisUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/src/main/resources/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/src/main/resources/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/classes/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/classes/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/classes/com/itheima/page/util/JedisUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/classes/com/itheima/page/util/JedisUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/classes/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/classes/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/page/util/JedisUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/page/util/JedisUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/lib/gossip-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/lib/gossip-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/lib/search-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/lib/search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/lib/search-page-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-page-service/target/search-page-service-1.0-SNAPSHOT/WEB-INF/lib/search-page-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-service/search-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-service/src/main/resources/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-service/src/main/resources/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-service/target/classes/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-service/target/classes/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-service/target/search-service-1.0-SNAPSHOT/WEB-INF/classes/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-service/target/search-service-1.0-SNAPSHOT/WEB-INF/classes/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-service/target/search-service-1.0-SNAPSHOT/WEB-INF/lib/gossip-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-service/target/search-service-1.0-SNAPSHOT/WEB-INF/lib/gossip-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gossip-parent/search-service/target/search-service-1.0-SNAPSHOT/WEB-INF/lib/search-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gossip-parent/search-service/target/search-service-1.0-SNAPSHOT/WEB-INF/lib/search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_11_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gossip-spider-deploy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/spider/dao/NewsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/spider/dao/NewsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/spider/utils/JedisUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/spider/utils/JedisUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/News163Master-r.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/News163Slave-r.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/NewsTencentMaster-r.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/spider/dao/NewsDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/spider/dao/NewsDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/spider/utils/JedisUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/spider/utils/JedisUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/search-page-service.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/search-service.war" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,40 +149,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/NewsTencentMaster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/kafka/KafkaSpiderProducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+            <state relative-caret-position="175">
+              <caret line="100" column="44" selection-start-line="100" selection-start-column="44" selection-end-line="100" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -50,44 +166,110 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/News163Master.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+            <state relative-caret-position="125">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/News163Slave.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="220">
+              <caret line="78" column="79" selection-start-line="78" selection-start-column="79" selection-end-line="78" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/utils/JedisUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/utils/HttpClientUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/tencentnew/GetTencentNews.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/pojo/News.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/kafka/KafkaSpiderProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-725">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/ent163New/GetEnt163News.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/dao/NewsDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/spider/utils/JedisUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itheima/spider/dao/NewsDao.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itheima/Test.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/java/apache-maven-3.5.2" />
-        <option name="userSettingsFile" value="D:\develop\java\apache-maven-3.5.2\conf\settings.xml" />
+        <option name="localRepository" value="C:\my_java\maven_repository" />
+        <option name="mavenHome" value="C:/my_java/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\my_java\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -100,29 +282,34 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="gossip-spider-deploy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="gossip-spider-deploy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="assembly" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="330" />
-    <option name="y" value="3" />
-    <option name="width" value="1545" />
-    <option name="height" value="982" />
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="82" />
+    <option name="y" value="30" />
+    <option name="width" value="1525" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,23 +353,108 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="itheima" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gossip-spider-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossip-spider-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gossip-spider-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossip-spider-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gossip-spider-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossip-spider-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="ent163New" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gossip-spider-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossip-spider-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gossip-spider-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossip-spider-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gossip-spider-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossip-spider-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="tencentnew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gossip-spider-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossip-spider-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gossip-spider-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gossip-spider-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="version2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552812609562" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553075756443" />
+    <property name="last_opened_file_path" value="D:/workspace/ff" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,29 +517,28 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eda3510a-dd87-4dfa-adff-900d3e5f009d" name="Default Changelist" comment="" />
-      <created>1552738677954</created>
+      <changelist id="2822eb30-fe10-4a27-aae4-46f78f5b1079" name="Default Changelist" comment="" />
+      <created>1552995886362</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552738677954</updated>
-      <workItem from="1552738682763" duration="2876000" />
-      <workItem from="1552788461581" duration="8221000" />
-      <workItem from="1552973621163" duration="1602000" />
+      <updated>1552995886362</updated>
+      <workItem from="1552995887854" duration="1068000" />
+      <workItem from="1553074096435" duration="2136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12699000" />
+    <option name="totallyTimeSpent" value="3204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="264" y="3" width="1236" height="785" extended-state="0" />
+    <frame x="66" y="24" width="1220" height="816" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27504244" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25387263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -276,7 +547,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35806832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,13 +556,13 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32979977" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32894737" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.34804752" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.12306368" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -303,126 +574,96 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/kafka/KafkaSpiderProducer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/News163Slave.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        <state relative-caret-position="-1455">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/PublicDaoNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/News163Master.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+        <state relative-caret-position="125">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/News163Slave.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/utils/HttpClientUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/NewsTencentMaster.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/tencentnew/GetTencentNews.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/pojo/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/ent163New/GetEnt163News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/dao/NewsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="220">
+          <caret line="78" column="79" selection-start-line="78" selection-start-column="79" selection-end-line="78" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/kafka/KafkaSpiderProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="-725">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/version2/NewsTencentMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="100" column="44" selection-start-line="100" selection-start-column="44" selection-end-line="100" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/spider/utils/JedisUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>gossip-spider-deploy</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8 (2)</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: c3p0:c3p0:0.9.1.2</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

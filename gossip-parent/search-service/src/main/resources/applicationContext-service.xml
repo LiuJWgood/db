@@ -15,7 +15,7 @@
     <bean class="org.apache.solr.client.solrj.impl.CloudSolrServer">
         <!--指定zookeeper的连接地址-->
         <constructor-arg name="zkHost"
-                         value="192.168.12.141:2181,192.168.12.142:2181,192.168.12.143:2181"></constructor-arg>
+                         value="192.168.233.141:2181,192.168.233.142:2181,192.168.233.143:2181"></constructor-arg>
         <!--默认的索引库-->
         <property name="defaultCollection" value="collection2"></property>
         <!--从zookeeper中获取的客户端的超时时间, -->
@@ -27,6 +27,6 @@
     <!--dubbox相关配置-->
     <dubbo:protocol name="dubbo" port="20881"></dubbo:protocol>
     <dubbo:application name="search-service"/>
-    <dubbo:registry protocol="zookeeper" address="192.168.12.141:2181,192.168.12.142:2181,192.168.12.143:2181"/>
+    <dubbo:registry protocol="zookeeper" address="192.168.233.141:2181,192.168.233.142:2181,192.168.233.143:2181"/>
     <dubbo:annotation package="com.itheima.search.service"/>
 </beans>
